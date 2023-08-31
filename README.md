@@ -11,9 +11,8 @@
 
 ## Demo
 
-- **Demonstration** - https://www.youtube.com/watch?v=6rIo71cWklI
-- **Deployed Frontend** - https://agrioracle.herokuapp.com/
-- 
+- **Demonstration** - [https://www.youtube.com/watch?v=6rIo71cWklI](https://youtu.be/5StHKbaAoO8?si=cYqj26K1nSsHeC9V)
+
 ## Features
 
 - User Registration and Authentication
