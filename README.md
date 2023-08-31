@@ -1,15 +1,25 @@
 
-# SBSPS-Challenge-10726-1692425101
+# IBM Hack Challenge - 2023
 
-The Cognos Effect: Unleashing Actionable Insights on the Top 100 K-Dramas of 2023
+**Team Name - Team 326** \
+**Problem Title** - The Cognos Effect: Unleashing Actionable insights on the Top 100 K-Deamas of 2023
 
+## Team Members
 
+- [@suraijmuhammed](https://github.com/suraijmuhammed)
+- [@Gopi-krishnan-77](https://github.com/Gopi-krishnan-77)
 
-## Team Name
-Team 326
-## Team Leader
-@suraijmuhammed
-## Team Member
-@gopi-krishnan-77
-## Overview
-The primary goal of this project is to leverage IBM Cognos, a powerful business intelligence and data analytics tool, to create an interactive and informative dashboard that provides insights into the world of KDrama.
+## Demo
+
+- **Demonstration** - https://www.youtube.com/watch?v=6rIo71cWklI
+- **Deployed Frontend** - https://agrioracle.herokuapp.com/
+- 
+## Features
+
+- User Registration and Authentication
+- User Profiles
+- Advanced Search and Filters
+- Personalized Recommendations
+- Watchlist
+- Reviews and Ratings
+
