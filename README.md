@@ -9,9 +9,9 @@
 - [@suraijmuhammed](https://github.com/suraijmuhammed)
 - [@Gopi-krishnan-77](https://github.com/Gopi-krishnan-77)
 
-## Demo
+## Demo Video Link
 
-- **Demonstration** - [https://www.youtube.com/watch?v=6rIo71cWklI](https://youtu.be/5StHKbaAoO8?si=cYqj26K1nSsHeC9V)
+- [https://www.youtube.com/watch?v=6rIo71cWklI](https://youtu.be/5StHKbaAoO8?si=cYqj26K1nSsHeC9V)
 
 ## Features
 
